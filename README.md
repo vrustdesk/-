@@ -36,7 +36,8 @@ https://github.com/vrustdesk/-/blob/main/1)%20haproxy.cfg
 Конфигурационный файл haproxy.cfg
 https://github.com/vrustdesk/-/blob/main/2)%20haproxy.cfg
 
-Cкриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy c использованием домена example.local
+Cкриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy c использованием домена 
+example.local
 ![image](https://github.com/user-attachments/assets/194ca261-c7bb-4215-a102-5b4c3216c4f4)
 и без него
 ![image](https://github.com/user-attachments/assets/f039c1a8-50b4-43ad-918d-edaa71ad9b91)
